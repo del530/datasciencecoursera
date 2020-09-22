@@ -1,7 +1,0 @@
-git remote add origin https://github.com/del530/datasciencecoursera.git
-git branch -M master
-git push -u origin master
-
-
-## This is a markdown file
-
